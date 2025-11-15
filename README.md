@@ -79,6 +79,7 @@ pwn4heap
 │       ├── fast_bin_attack_bss
 │       ├── house_of_einherjar
 │       ├── house_of_force
+│       ├── house_of_lore
 │       ├── house_of_spirit
 │       ├── large_bin_attack
 │       ├── large_bin_attack_again
