@@ -176,6 +176,7 @@ pwn4heap
 │   │   └── unsorted_bin_leak_again
 │   └── 2.31                            # Techniques for glibc 2.31
 │       ├── binary                      # binary files for glibc 2.31
+│       ├── fast_bin_attack
 │       ├── unsafe_unlink
 │       ├── unsafe_unlink_again
 │       └── unsorted_bin_leak
