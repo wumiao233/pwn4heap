@@ -1,6 +1,6 @@
 [project]
 name = "pwn4heap"
-version = "0.1.0"
+version = "1.0.0"
 description = "This repository is an enhanced and practical extension of the renowned **how2heap** tutorial."
 readme = "README.md"
 requires-python = ">=3.12"
